@@ -1,2 +1,2 @@
 # cody_shimizu
-test test
+Testing out git hub yoyoyo 
